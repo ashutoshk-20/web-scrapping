@@ -1,0 +1,4 @@
+/chromedriver-win64/
+.ipynb_checkpoints/
+/venv/
+*.csv
